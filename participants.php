@@ -32,6 +32,36 @@
             <!--
               Each Participant Ends
             -->
+						
+ <!--
+              GUIDELINES FOR ADDING DETAILS TO PARTICIPANTS TABLE
+              - Uncomment the code block in the comment above, to maintain uniformity
+              - Replace the placeholder(The text which are enclosed with hashtags i.e #...#) with your details
+              - Your image should be stored in the image folder of the repo
+              - If you do not have an available image, use the default image, using the link 'http://s3.amazonaws.com/37assets/svn/765-default-avatar.png'
+              - Make sure you do not modify information of other participants
+              - Pull the repo, before pushing it, inorder to prevent conflicts
+            -->
+
+
+=======
+            <!--
+              each Participant Starts
+            -->
+            <tr>
+              <td class="team3_center_td"> 2.</td>
+              <td>
+                <img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">
+                <a href="#" class="user-link">Abdulsamad Aliyu</a>
+                <span class="user-subhead">Email: abdulsamadaliyu17@gmail.com</span>
+              </td>
+              <td>
+                Team 3
+              </td>
+            </tr>
+            <!--
+              Each Participant Ends
+            -->
 
             <!--
               each Participant Starts
