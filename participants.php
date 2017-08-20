@@ -1,17 +1,25 @@
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<?php require_once('header.php'); ?>
 
-<table class="table user-list" width="80%">
+<div id="banner-content" class="row clearfix">
+  <h1 class="team3_heading"> Viewing all Participants</h1>
+  <table class="table user-list" width="80%">
 					<thead>
 						<tr>
-							<th><span>User</span></th>
-							<th><span>Team</span></th>
-							<th class="text-center"><span>Github</span></th>
-							<th><span>State 1 Output</span></th>
-							<th><span>Slack</span></th>
+              <th><span></span> S/N</th>
+							<th><span class="fa fa-user"></span> PARTICIPANT</th>
+							<th><span class="fa fa-users"></span> TEAM</th>
 						</tr>
 					</thead>
+
+
 					<tbody>
+
+
+            <!--
+              each Participant Starts
+            -->
 						<tr>
+              <td class="team3_center_td"> 1.</td>
 							<td>
 								<img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">
 								<a href="#" class="user-link">Emmanuel Joseph</a>
@@ -20,18 +28,14 @@
 							<td>
 								Team 3
 							</td>
-							<td class="text-center">
-								<a href="https://github.com/jekayode" target="_blank">@jekayode</a>
-							</td>
-							<td>
-								<a href="https://github.com/jekayode/hnl-internship" target="_blank">#Stage1 Output</a>
-							</td>
-							<td style="width: 20%;">
-								<a href="https://hnginterns.slack.com">@jekayode</a>
-							</td>
 						</tr>
+            <!--
+              Each Participant Ends
+            -->
 
-						
-						
+
+
 					</tbody>
 				</table>
+</div>
+<?php require_once('footer.php'); ?>
