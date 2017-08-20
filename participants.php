@@ -33,6 +33,23 @@
               Each Participant Ends
             -->
 
+            <!--
+              each Participant Starts
+            -->
+            <tr>
+              <td class="team3_center_td"> 2.</td>
+              <td>
+                <img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">
+                <a href="#" class="user-link">Abdulsamad Aliyu</a>
+                <span class="user-subhead">Email: abdulsamadaliyu17@gmail.com</span>
+              </td>
+              <td>
+                Team 3
+              </td>
+            </tr>
+            <!--
+              Each Participant Ends
+            -->
 
 
 					</tbody>
