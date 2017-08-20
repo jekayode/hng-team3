@@ -1,11 +1,3 @@
- .details li {
-      list-style: none;
-    }
-    li {
-        margin-bottom:10px;
-        
-    }
-
 /* USER LIST TABLE */
 .user-list tbody td > img {
     position: relative;
